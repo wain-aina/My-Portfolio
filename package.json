@@ -46,5 +46,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/wain-aina/My-Portfolio.git",
+  "author": "wain-aina <murigipeninah1@gmail.com>",
+  "license": "MIT"
 }

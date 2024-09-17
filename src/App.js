@@ -6,8 +6,6 @@ import { Main, BlogPage, ProjectPage } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
 
-import { DNA } from 'react-loader-spinner';
-
 import './App.css'
 
 function App() {

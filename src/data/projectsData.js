@@ -29,7 +29,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'Whats App Clone',
-        projectDesc: 'This is a clone of WhatsApp that utilizes a flutter frontent and Firebase backend. Built as the final capstone project while learning Mobile Development with Flutter',
+        projectDesc: 'This is a clone of WhatsApp that utilizes a Flutter frontend and Firebase backend. Built as the final capstone project while learning Mobile Development with Flutter',
         tags: ['Flutter', 'Dart','Firebase'],
         code: 'https://github.com/wain-aina/Chat-App',
         image: thirteen
@@ -37,7 +37,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Gossip Girl - AI Chatbot',
-        projectDesc: 'Gossip Girl was built when ChatGPT was gaining popularity. It is a web-based Chatbot that uses the OpenAI ChatGPT API. Users can interact with it locally in a similar way yo ChatGPT',
+        projectDesc: 'Gossip Girl was built just as ChatGPT was gaining popularity. It is a web-based Chatbot that uses the OpenAI ChatGPT API. Users can interact with it locally in a similar way to ChatGPT',
         tags: ['React', 'NodeJS', 'Express', "MongoDB", "NodeJS"],
         code: 'https://github.com/wain-aina/AI-Chatbot',
         image: sample
@@ -109,7 +109,7 @@ export const projectsData = [
     {
         id: 12,
         projectName: 'COOPTECH',
-        projectDesc: 'A system that would allow corporative societies to digitise services i.e. loan applications, member creation, expenditure tracking etc. As the system is only accessible to corporatives, a link to the website will be in place.',
+        projectDesc: 'A system that would allow cooperative societies to digitise services i.e. loan applications, member creation, expenditure tracking etc. As the system is only accessible to cooperatives, a link to the website will be in place.',
         tags: ['React', 'Apache', 'JavaScript', 'MySQL', 'Oracle'],
         code: 'https://cooptech.coop/',
         image: two
@@ -117,7 +117,7 @@ export const projectsData = [
     {
         id: 13,
         projectName: 'TKinter & Turtle Graphics',
-        projectDesc: 'A collection of python projects that involve making Grpahical User Interfaces with Turtle i.e. Snake Game, and TKinter with projects such as a password keeper, which I make use of daily.',
+        projectDesc: 'A collection of python projects that involve making Graphical User Interfaces with Turtle i.e. Snake Game, and TKinter with projects such as a password keeper, which I make use of daily.',
         tags: ['Python'],
         code: 'https://github.com/wain-aina/Turtle-Graphics-TKinter',
         image: turtle
