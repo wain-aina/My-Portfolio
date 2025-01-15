@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.26076451.css",
-    "main.js": "/static/js/main.5466d34f.js",
+    "main.js": "/static/js/main.a4fb03f5.js",
     "static/js/453.1cc257ae.chunk.js": "/static/js/453.1cc257ae.chunk.js",
     "static/media/four.svg": "/static/media/four.797cac62273af3693cd624c5f58e33b5.svg",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
@@ -15,15 +15,15 @@
     "static/media/expYellow.svg": "/static/media/expYellow.22be417c6d1c281c3b4b6ee0e80f0a5f.svg",
     "static/media/eleven.svg": "/static/media/eleven.bbf52d0e934a65fef906b15add25e9c8.svg",
     "static/media/web.png": "/static/media/web.04fbb3b74f100492cffc.png",
-    "static/media/me.jpg": "/static/media/me.d1edb53216f1caba4362.jpg",
+    "static/media/resume.pdf": "/static/media/resume.0819446621b2a466a148.pdf",
     "static/media/twelve.svg": "/static/media/twelve.388636d14eb9b944354211f6b3638e05.svg",
     "static/media/thirteen.svg": "/static/media/thirteen.cf0bc49e51cc1ce2d0957999bfb4721a.svg",
     "static/media/five.svg": "/static/media/five.89b924ebc79f37d920813b8e786786ba.svg",
     "static/media/seven.svg": "/static/media/seven.3168c0a56a95f988490da0dc09e72c52.svg",
-    "static/media/resume.pdf": "/static/media/resume.98d0b47aecf8ba4be39b.pdf",
     "static/media/postman.png": "/static/media/postman.87496669293f7957e207.png",
     "static/media/two.svg": "/static/media/two.721a06723367c73fc2cee44b09f50c67.svg",
     "static/media/python.png": "/static/media/python.603c62b9848657a1f9e4.png",
+    "static/media/me1.jpeg": "/static/media/me1.245149bb29b2029ca93d.jpeg",
     "static/media/flutter.png": "/static/media/flutter.ce627d8009d63fe5f546.png",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/hodge.svg": "/static/media/hodge.a6132288da0cf7c63015c928454f1ca2.svg",
@@ -162,11 +162,11 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.8a22a3ec81ad62e97094feab6e7ee0fb.svg",
     "static/media/bulma.svg": "/static/media/bulma.5910d4416e077262d0264109649ab214.svg",
     "main.26076451.css.map": "/static/css/main.26076451.css.map",
-    "main.5466d34f.js.map": "/static/js/main.5466d34f.js.map",
+    "main.a4fb03f5.js.map": "/static/js/main.a4fb03f5.js.map",
     "453.1cc257ae.chunk.js.map": "/static/js/453.1cc257ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26076451.css",
-    "static/js/main.5466d34f.js"
+    "static/js/main.a4fb03f5.js"
   ]
 }
