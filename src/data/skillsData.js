@@ -11,7 +11,9 @@
     'PostgreSQL',
     'Python',
     'Flutter',
-    'Dart',
     'Firebase',
-    'Photoshop'
+    'GCP',
+    'Docker',
+    'Blender',
+    'Azure'
 ]
